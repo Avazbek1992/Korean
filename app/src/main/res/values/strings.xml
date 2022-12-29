@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Korean</string>
+    <string name="_0">0</string>
+    <string name="completed">Completed game</string>
+    <string name="score">Score</string>
+    <string name="time">Time</string>
+    <string name="start_again">Start Again</string>
+    <string name="of">of</string>
+    <string name="_99">99</string>
+    <string name="start">Start</string>
+    <string name="quiz">QUIZ</string>
+    <string name="quizni_boshlash_uchun_startni_bosing">QUIZni boshlash uchun startni bosing</string>
+    <string name="_73">73</string>
+</resources>
